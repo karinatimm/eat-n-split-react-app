@@ -19,7 +19,7 @@ Happy splitting!
 ### Deployment
 
 This app has been deployed on Vercel and is accessible at the following URL:
-**[Eat-n-Split App on Vercel](https://quiz-react-app-ten.vercel.app/)**
+**[Eat-n-Split App on Vercel](https://eat-n-split-react-app-bay.vercel.app/)**
 
 ## System Requirements:
 
@@ -48,7 +48,7 @@ Open the terminal or command prompt, navigate to your desired directory, and clo
 
 - Execute the following command to start working with this project locally by opening the localhost reference in the browser:
 
-  **npm start**
+**npm start**
 
 ### Quality Assurance
 
